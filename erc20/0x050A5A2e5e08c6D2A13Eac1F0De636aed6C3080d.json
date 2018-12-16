@@ -1,0 +1,26 @@
+{
+  "symbol": "DCA",
+  "address": "0x050A5A2e5e08c6D2A13Eac1F0De636aed6C3080d ",
+  "overview":{
+        "en": "DCA is a currency based on tipping culture, especially in the Asia-Pacific region, tipping culture and its prevalence, and in various consumer occasions in China, there is also a habit of rewarding.",
+        "zh": "DCA是基于小费文化而诞生的币种，特别是在亚太地区，小费文化及其盛行，而且在中国的各种消费场合，也有打赏的习惯。DCA是基于小费文化而诞生的币种，特别是在亚太地区，小费文化及其盛行，而且在中国的各种消费场合，也有打赏的习惯",
+  },
+  "email": "ksbeian@foxmail.com",
+  "website": "http://www.qlcoin.top/",
+  "whitepaper": "http://www.qlcoin.top/QLB-white
+
+%20paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-12-15",
+  "initial_price":{
+        "USD":"0.000003 USD",
+  },
+  "links": {
+    "Beechat group": "https://beechat.io/join?g=4fe42fdb5597487fa322b12af75e51d4&lang=zh",
+    "WeChat group": "DCA8088",
+    "QQ": "689858159,550416740",
+    "gas": "60000",
+    "团队介绍": "团队创始人拥有丰富的投资经验和眼光，团队成员均为IT和金融行业从业者，对市场有着敏锐的感觉，更是热衷于对区块链技术的研究和开发，DCA（区链协议）更早是出现在2016年，初始是基于BTC的独立钱包维持，为了方便用户的操作，所以决定更换为以太网络，更加稳定便捷",  ",
+   
+  }
+}
